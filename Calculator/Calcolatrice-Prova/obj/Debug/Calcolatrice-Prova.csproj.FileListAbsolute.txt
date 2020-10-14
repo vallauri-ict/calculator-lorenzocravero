@@ -18,3 +18,30 @@ D:\3B inf 2019 2020\informatica\visuale\Calculator\Calcolatrice-Prova\obj\Debug\
 D:\3B inf 2019 2020\informatica\visuale\Calculator\Calcolatrice-Prova\obj\Debug\Calcolatrice-Prova.csproj.CoreCompileInputs.cache
 D:\3B inf 2019 2020\informatica\visuale\Calculator\Calcolatrice-Prova\obj\Debug\Calcolatrice-Prova.exe
 D:\3B inf 2019 2020\informatica\visuale\Calculator\Calcolatrice-Prova\obj\Debug\Calcolatrice-Prova.pdb
+E:\4B Inf 2020 2021\Informatica\Calculator\Calcolatrice-Prova\bin\Debug\Calcolatrice-Prova.exe.config
+E:\4B Inf 2020 2021\Informatica\Calculator\Calcolatrice-Prova\bin\Debug\Calcolatrice-Prova.exe
+E:\4B Inf 2020 2021\Informatica\Calculator\Calcolatrice-Prova\bin\Debug\Calcolatrice-Prova.pdb
+E:\4B Inf 2020 2021\Informatica\Calculator\Calcolatrice-Prova\obj\Debug\Calcolatrice-Prova.csprojAssemblyReference.cache
+E:\4B Inf 2020 2021\Informatica\Calculator\Calcolatrice-Prova\obj\Debug\Calcolatrice_Prova.FormMain.resources
+E:\4B Inf 2020 2021\Informatica\Calculator\Calcolatrice-Prova\obj\Debug\Calcolatrice_Prova.Properties.Resources.resources
+E:\4B Inf 2020 2021\Informatica\Calculator\Calcolatrice-Prova\obj\Debug\Calcolatrice-Prova.csproj.GenerateResource.cache
+E:\4B Inf 2020 2021\Informatica\Calculator\Calcolatrice-Prova\obj\Debug\Calcolatrice-Prova.exe
+E:\4B Inf 2020 2021\Informatica\Calculator\Calcolatrice-Prova\obj\Debug\Calcolatrice-Prova.pdb
+D:\4B Inf 2020 2021\Informatica\Calculator\Calcolatrice-Prova\bin\Debug\Calcolatrice-Prova.exe.config
+D:\4B Inf 2020 2021\Informatica\Calculator\Calcolatrice-Prova\bin\Debug\Calcolatrice-Prova.exe
+D:\4B Inf 2020 2021\Informatica\Calculator\Calcolatrice-Prova\bin\Debug\Calcolatrice-Prova.pdb
+D:\4B Inf 2020 2021\Informatica\Calculator\Calcolatrice-Prova\obj\Debug\Calcolatrice-Prova.csprojAssemblyReference.cache
+D:\4B Inf 2020 2021\Informatica\Calculator\Calcolatrice-Prova\obj\Debug\Calcolatrice_Prova.FormMain.resources
+D:\4B Inf 2020 2021\Informatica\Calculator\Calcolatrice-Prova\obj\Debug\Calcolatrice_Prova.Properties.Resources.resources
+D:\4B Inf 2020 2021\Informatica\Calculator\Calcolatrice-Prova\obj\Debug\Calcolatrice-Prova.csproj.GenerateResource.cache
+D:\4B Inf 2020 2021\Informatica\Calculator\Calcolatrice-Prova\obj\Debug\Calcolatrice-Prova.exe
+D:\4B Inf 2020 2021\Informatica\Calculator\Calcolatrice-Prova\obj\Debug\Calcolatrice-Prova.pdb
+C:\Users\l.cravero.1295\Desktop\Calculator\Calcolatrice-Prova\bin\Debug\Calcolatrice-Prova.exe.config
+C:\Users\l.cravero.1295\Desktop\Calculator\Calcolatrice-Prova\bin\Debug\Calcolatrice-Prova.exe
+C:\Users\l.cravero.1295\Desktop\Calculator\Calcolatrice-Prova\bin\Debug\Calcolatrice-Prova.pdb
+C:\Users\l.cravero.1295\Desktop\Calculator\Calcolatrice-Prova\obj\Debug\Calcolatrice-Prova.csprojAssemblyReference.cache
+C:\Users\l.cravero.1295\Desktop\Calculator\Calcolatrice-Prova\obj\Debug\Calcolatrice_Prova.FormMain.resources
+C:\Users\l.cravero.1295\Desktop\Calculator\Calcolatrice-Prova\obj\Debug\Calcolatrice_Prova.Properties.Resources.resources
+C:\Users\l.cravero.1295\Desktop\Calculator\Calcolatrice-Prova\obj\Debug\Calcolatrice-Prova.csproj.GenerateResource.cache
+C:\Users\l.cravero.1295\Desktop\Calculator\Calcolatrice-Prova\obj\Debug\Calcolatrice-Prova.exe
+C:\Users\l.cravero.1295\Desktop\Calculator\Calcolatrice-Prova\obj\Debug\Calcolatrice-Prova.pdb
